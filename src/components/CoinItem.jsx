@@ -1,5 +1,7 @@
 import React from "react";
 const CoinItem = (props) => {
+  const number =
+    props.coins.market_cap_change_24h > 0 ? "text-green-500" : "text-red-500";
   return (
     <div className="flex justify-between items-center  dark:bg-[#252930] shadow-md rounded-md my-8 mx-4 py-3 px-4 hover:scale-105 transition-all duration-300 dark:shadow-zinc-700">
       <p>{props.coins.market_cap_rank}</p>
@@ -13,7 +15,9 @@ const CoinItem = (props) => {
         <p>{props.coins.symbol.toUpperCase()}</p>
       </div>
       <p>$ {props.coins.current_price.toLocaleString()}</p>
-      <p>{props.coins.price_change_percentage_24h.toFixed(2)} %</p>
+      <p className={number}>
+        {props.coins.price_change_percentage_24h.toFixed(2)} %
+      </p>
       <p className="hidden md:block">
         $ {props.coins.total_volume.toLocaleString()}
       </p>

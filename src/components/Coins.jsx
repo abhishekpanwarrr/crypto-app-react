@@ -3,6 +3,8 @@ import CoinItem from "./CoinItem";
 // import "./Coins.css";
 import { Link } from "react-router-dom";
 const Coins = (props) => {
+  const data = props.coins;
+  console.log("🚀 ~ file: Coins.jsx ~ line 7 ~ Coins ~ data", data);
   return (
     <div className="max-w-6xl mx-auto">
       <h1 className="w-full text-center shadow-md dark:shadow-blue-700 text-2xl ml-4 rounded-md px-4 py-1 mt-5">
@@ -13,7 +15,7 @@ const Coins = (props) => {
         <p>#</p>
         <p className="-ml-16">COIN</p>
         <p>PRICE</p>
-        <p>24H</p>
+        <p>24H CHANGE</p>
         <p className="hidden md:block">VOLUME</p>
         <p className="hidden md:block">MKT CAP</p>
       </div>
