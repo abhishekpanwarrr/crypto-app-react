@@ -39,8 +39,7 @@ Install crypto-app-react with npm
   cd crypto-app-react
   npm start to start the expo project in any device
 ```
-
-![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)
+![localhost_3000_](https://user-images.githubusercontent.com/40629087/180246512-60f089f5-7a84-4bb0-9c1b-df085d37d1a5.png)
 
 ## Running Tests
 
