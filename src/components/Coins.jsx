@@ -19,7 +19,11 @@ const Coins = (props) => {
       </div>
       {props.coins.map((coins, index) => {
         return (
-          <Link to={`/coin/${coins.id}`} key={coins.id}>
+          <Link
+            to={`/coin/${coins.id}`}
+            key={coins.id}
+            title={`More about ${coins.name}`}
+          >
             <CoinItem coins={coins} />
           </Link>
         );
