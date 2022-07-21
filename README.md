@@ -18,7 +18,7 @@ https://crypto-app-react-blond.vercel.app/
 
 💬 Ask me about React Js and React Native
 
-📫 You can react me on my webiste or with instagram and linkedin
+📫 You can reach me on my webiste, instagram or linkedin
 :- https://abhishekpanwar.netlify.app
 :- https://instagram.com/abhishekpanwarrr
 :- https://linkedin.com/in/abhishekpanwarrr
