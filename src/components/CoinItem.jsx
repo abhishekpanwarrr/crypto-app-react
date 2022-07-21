@@ -1,7 +1,7 @@
 import React from "react";
 const CoinItem = (props) => {
   return (
-    <div className="flex justify-between items-center  dark:bg-[#252930] shadow-md rounded-md my-8 mx-4 py-3 px-4 hover:scale-105 transition-all duration-300 shadow-zinc-700">
+    <div className="flex justify-between items-center  dark:bg-[#252930] shadow-md rounded-md my-8 mx-4 py-3 px-4 hover:scale-105 transition-all duration-300 dark:shadow-zinc-700">
       <p>{props.coins.market_cap_rank}</p>
       <div className="flex items-center">
         <img
