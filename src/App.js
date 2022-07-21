@@ -7,6 +7,7 @@ import Coin from "./components/Coin";
 import { COINS_API_KEY } from "./assets/api_keys";
 import Exchanges from "./components/Exchanges";
 import Trending from "./components/Trending";
+import Footer from "./components/Footer";
 
 const App = () => {
   const [coins, setCoins] = useState([]);
@@ -31,6 +32,7 @@ const App = () => {
           <Route path=":coinId" element={<Coin />} />
         </Route>
       </Routes>
+      <Footer />
     </div>
   );
 };
