@@ -12,7 +12,7 @@ const Navbar = () => {
   }
   return (
     <>
-      <p className="max-w-6xl m-auto text-center text-sm md:text-right mb-5">
+      {/* <p className="max-w-6xl m-auto text-center text-sm md:text-right mb-5">
         API Powered By{" "}
         <a
           className="text-blue-400"
@@ -22,7 +22,7 @@ const Navbar = () => {
         >
           CoinGecko
         </a>
-      </p>
+      </p> */}
       <div className="max-w-6xl m-auto flex justify-between items-center  px-7 py-4">
         <Link to="/">
           <FaCoins className="text-3xl text-blue-700" />
