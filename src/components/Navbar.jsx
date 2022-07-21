@@ -12,7 +12,7 @@ const Navbar = () => {
   }
   return (
     <>
-      <p className="max-w-6xl m-auto text-center text-sm md:text-right">
+      <p className="max-w-6xl m-auto text-center text-sm md:text-right mb-5">
         API Powered By{" "}
         <a
           className="text-blue-400"
