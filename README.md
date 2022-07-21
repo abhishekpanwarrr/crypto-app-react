@@ -1,70 +1,75 @@
-# Getting Started with Create React App
+# Crypto Currenty App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This app shows data of all crypto coins as well as exchanges with their ranking on daily change.
 
-## Available Scripts
+## Demo
 
-In the project directory, you can run:
+Insert gif or link to demo
 
-### `npm start`
+https://crypto-app-react-blond.vercel.app/
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Other Common Github Profile Sections
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+👩‍💻 I'm currently working on creation section
 
-### `npm test`
+🧠 I'm currently learning typescript
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+👯‍♀️ I'm looking to collaborate on react and react native projects any one who is interested can connect on my social links
 
-### `npm run build`
+💬 Ask me about React Js and React Native
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+📫 You can react me on my webiste or with instagram and linkedin
+:- https://abhishekpanwar.netlify.app
+:- https://instagram.com/abhishekpanwarrr
+:- https://linkedin.com/in/abhishekpanwarrr
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+⚡️ Fun fact is that i love to write code 😊💕
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## 🔗 Links
 
-### `npm run eject`
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://abhishekpanwar.netlify.app/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhishekpanwarrr/)
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## Installation
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+Install crypto-app-react with npm
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+```bash
+  npm install crypto-app-react
+  cd crypto-app-react
+  npm start to start the expo project in any device
+```
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)
 
-## Learn More
+## Running Tests
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+To run tests, run the following command
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+```bash
+    Test are not ready yet for this project
+```
 
-### Code Splitting
+## Features
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+- Light/dark mode toggle
+- Live data preview of trending coins in last 24h
+- Live data of exchanges with ranking
+- List of all the coins all over the world
+- Fully responsive
 
-### Analyzing the Bundle Size
+## Tech Stack
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+**Client:** React and TailwindCSS
 
-### Making a Progressive Web App
+## Used By
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+This project can be used by anyone
 
-### Advanced Configuration
+## Authors
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+- [@abhishekpanwarrr](https://www.github.com/abhishekpanwarrr)
 
-### Deployment
+## Support
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+For support, email abhishekpanwar1718@gmail.com or join me on linkedin.
