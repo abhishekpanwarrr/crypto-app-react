@@ -1,4 +1,4 @@
-# Crypto Currenty App
+# Crypto Currency App
 
 This app shows data of all crypto coins as well as exchanges with their ranking on daily change.
 
