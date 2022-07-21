@@ -2,7 +2,7 @@ import React from "react";
 import coingeck from "../assets/coingecko.svg";
 const Footer = () => {
   return (
-    <div className="max-w-6xl m-auto flex justify-between items-center  px-7 py-4">
+    <div className="max-w-6xl m-auto flex flex-col gap-2 md:gap-0 md:flex-row justify-between items-center  px-7 py-4">
       <h3>
         Copyright &#169;{" "}
         <a
