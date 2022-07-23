@@ -1,4 +1,4 @@
-# Crypto Currenty App
+# Crypto Currency App
 
 This app shows data of all crypto coins as well as exchanges with their ranking on daily change.
 
@@ -18,7 +18,7 @@ https://crypto-app-react-blond.vercel.app/
 
 💬 Ask me about React Js and React Native
 
-📫 You can react me on my webiste or with instagram and linkedin
+📫 You can reach me on my webiste, instagram or linkedin
 :- https://abhishekpanwar.netlify.app
 :- https://instagram.com/abhishekpanwarrr
 :- https://linkedin.com/in/abhishekpanwarrr
@@ -39,8 +39,9 @@ Install crypto-app-react with npm
   cd crypto-app-react
   npm start to start the expo project in any device
 ```
+## Screenshots
+![app-demo](https://user-images.githubusercontent.com/40629087/180247556-d6e9907e-4540-4b43-bade-686e60531171.png)
 
-![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)
 
 ## Running Tests
 
