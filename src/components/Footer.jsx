@@ -6,7 +6,7 @@ const Footer = () => {
       <h3>
         Copyright &#169;{" "}
         <a
-          href="https://abhishekpanwar.netlify.app"
+          href="https://abhishek.pro"
           target="_blank"
           rel="noreferrer"
           className="text-blue-700"
